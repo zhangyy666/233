@@ -1,6 +1,6 @@
 import tensorflow as tf
 import tensorflow.contrib as tf_contrib
-
+#1111
 # Xavier : tf_contrib.layers.xavier_initializer()
 # He : tf_contrib.layers.variance_scaling_initializer()
 # Normal : tf.random_normal_initializer(mean=0.0, stddev=0.02)

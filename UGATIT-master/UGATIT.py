@@ -663,3 +663,6 @@ class UGATIT(object) :
                     '../..' + os.path.sep + image_path), self.img_size, self.img_size))
             index.write("</tr>")
         index.close()
+
+
+
